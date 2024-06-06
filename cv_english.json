@@ -1,0 +1,192 @@
+
+{
+  "basics": {
+    "name": "Alan Ezequiel Matia",
+    "label": "Frontend Developer with intention to become a Full Stack Developer",
+    "image": "https://media.licdn.com/dms/image/D4D03AQFXk9WTWDxhWQ/profile-displayphoto-shrink_800_800/0/1713734653117?e=1723075200&v=beta&t=mtTo4jmTEzr7HR_1IVZxmYIJ23xKJqwILxeEHVFJYjk",
+    "email": "ezequiel_matia@hotmail.com",
+    "phone": "+34635516343",
+    "url": "",
+    "summary": "Over 2 years of experience as a Web Developer. I am a proactive person with great learning and teamwork skills. I am continuously learning and excited to keep growing professionally, unafraid of changes, and thrilled by new challenges and future opportunities that will allow me to become a Full Stack Developer.",
+    "location": {
+      "address": "",
+      "postalCode": "00000",
+      "city": "Galicia",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Alan Ezequiel Matia",
+        "url": "https://www.linkedin.com/in/alanemc/"
+      },
+      {
+        "network": "GitHub",
+        "username": "alanz3ky",
+        "url": "https://github.com/alanz3ky"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SEDIX IT Solutions",
+      "position": "Full Stack Junior",
+      "url": "https://sedix.es/",
+      "startDate": "2022-05-13",
+      "endDate": "2024-04-02",
+      "summary": "Develop and maintain web applications using both client-side (frontend) and server-side (backend) technologies. Collaborate in the design and architecture of web systems."
+    }
+  ],
+  "education": [
+    {
+      "institution": "IES FERNANDO WIRTZ SUAREZ",
+      "url": "https://www.fernandowirtz.com/publicar.php",
+      "area": "Web Application Development",
+      "studyType": "Vocational Training",
+      "startDate": "2023-09-01",
+      "endDate": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Backend", "JavaScript Superset"]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "React Framework", "SSR", "Static Generation"]
+    },
+    {
+      "name": "React",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Angular",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "JavaScript Framework", "UI"]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend"]
+    },
+    {
+      "name": "Laravel",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Backend"]
+    },
+    {
+      "name": "Java",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "JavaScript Framework", "UI"]
+    },
+    {
+      "name": "WordPress",
+      "level": "Advanced"
+    },
+    {
+      "name": "PrestaShop",
+      "level": "Advanced"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Galician",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Beginner"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Counter",
+      "isActive": true,
+      "description": "Simple counter",
+      "highlights": [],
+      "url": "https://alanz3ky.github.io/contador/",
+      "github": "https://github.com/alanz3ky/contador"
+    },
+    {
+      "name": "Drawing Board",
+      "isActive": true,
+      "description": "HTML, CSS, and JavaScript playground for drawing",
+      "highlights": [],
+      "url": "https://alanz3ky.github.io/Dibujo-tablero/",
+      "github": "https://github.com/alanz3ky/Dibujo-tablero"
+    },
+    {
+      "name": "Rick and Morty API",
+      "isActive": true,
+      "description": "Display characters in grid style",
+      "highlights": [],
+      "url": "https://alanz3ky.github.io/API_Rick_Morty/",
+      "github": "https://github.com/alanz3ky/API_Rick_Morty"
+    },
+    {
+      "name": "Rick and Morty API",
+      "isActive": false,
+      "description": "Episode details through API request",
+      "highlights": [],
+      "url": "https://alanz3ky.github.io/API_Rick_Morty/",
+      "github": "https://github.com/alanz3ky/API_Rick_Morty"
+    }
+  ]
+}
