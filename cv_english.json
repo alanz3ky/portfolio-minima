@@ -1,13 +1,12 @@
-
 {
   "basics": {
     "name": "Alan Ezequiel Matia",
-    "label": "Frontend Developer with intention to become a Full Stack Developer",
+    "label": "Frontend Developer with the intention of becoming a Full Stack Developer",
     "image": "https://media.licdn.com/dms/image/D4D03AQFXk9WTWDxhWQ/profile-displayphoto-shrink_800_800/0/1713734653117?e=1723075200&v=beta&t=mtTo4jmTEzr7HR_1IVZxmYIJ23xKJqwILxeEHVFJYjk",
     "email": "ezequiel_matia@hotmail.com",
     "phone": "+34635516343",
     "url": "",
-    "summary": "Over 2 years of experience as a Web Developer. I am a proactive person with great learning and teamwork skills. I am continuously learning and excited to keep growing professionally, unafraid of changes, and thrilled by new challenges and future opportunities that will allow me to become a Full Stack Developer.",
+    "summary": "+2 years of experience as a Web Developer. I am a proactive person with a great ability to learn and work in a team. I continue to train and I am enthusiastic about growing professionally, not afraid of changes, and excited about new challenges and future opportunities that will allow me to become a Full Stack Developer.",
     "location": {
       "address": "",
       "postalCode": "00000",
@@ -167,7 +166,7 @@
     {
       "name": "Drawing Board",
       "isActive": true,
-      "description": "HTML, CSS, and JavaScript playground for drawing",
+      "description": "HTML, CSS, and JavaScript code playground for drawing",
       "highlights": [],
       "url": "https://alanz3ky.github.io/Dibujo-tablero/",
       "github": "https://github.com/alanz3ky/Dibujo-tablero"
@@ -183,10 +182,45 @@
     {
       "name": "Rick and Morty API",
       "isActive": false,
-      "description": "Episode details through API request",
+      "description": "Show episode details through an API request",
       "highlights": [],
       "url": "https://alanz3ky.github.io/API_Rick_Morty/",
-      "github": "https://github.com/alanz3ky/API_Rick_Morty"
+      "github": "https://github.com/alanz3ky/API-Capitulos"
+    },
+    {
+      "name": "RetroRocketVintage",
+      "isActive": true,
+      "description": "PrestaShop for a clothing store",
+      "highlights": [],
+      "url": "https://retrorocketvintage.com/"
+    },
+    {
+      "name": "Pasteleria Pura",
+      "isActive": true,
+      "description": "PrestaShop for a pastry shop",
+      "highlights": [],
+      "url": "https://pasteleriapura.com/"
+    },
+    {
+      "name": "HRYF",
+      "isActive": true,
+      "description": "PrestaShop for a high-value perfumery",
+      "highlights": [],
+      "url": "https://hryfperfumery.es/"
+    },
+    {
+      "name": "Geoskop",
+      "isActive": true,
+      "description": "WordPress for a company specializing in climate resilience",
+      "highlights": [],
+      "url": "https://geoskop.tech/"
+    },
+    {
+      "name": "Alameda Home Pontevedra",
+      "isActive": true,
+      "description": "WordPress for a tourist accommodation",
+      "highlights": [],
+      "url": "https://www.alamedahomepontevedra.es/"
     }
   ]
 }
