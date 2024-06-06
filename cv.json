@@ -235,6 +235,44 @@
       "highlights": [],
       "url": "https://alanz3ky.github.io/API_Rick_Morty/",
       "github": "https://github.com/alanz3ky/API_Rick_Morty"
+    },
+
+    {
+      "name": "RetroRocketVintage",
+      "isActive": true,
+      "description": "Prestashop de una tienda de Ropa",
+      "highlights": [],
+      "url": "https://retrorocketvintage.com/"
+    },
+
+    {
+      "name": "Pasteleria Pura",
+      "isActive": true,
+      "description": "Prestashop de una tienda de Reposteria",
+      "highlights": [],
+      "url": "https://pasteleriapura.com/"
+    },
+    {
+      "name": "HRYF",
+      "isActive": true,
+      "description": "Prestashop de una perfumeria de alto valor",
+      "highlights": [],
+      "url": "https://hryfperfumery.es/"
+    },
+
+    {
+      "name": "Geoskop",
+      "isActive": true,
+      "description": "Wordpress para una empresa especializada en resilencia climática ",
+      "highlights": [],
+      "url": "https://geoskop.tech/"
+    },
+    {
+      "name": "Alameda Home Pontevedra",
+      "isActive": true,
+      "description": "Wordpress para una alojamiento turístico ",
+      "highlights": [],
+      "url": "https://www.alamedahomepontevedra.es/"
     }
   ]
 }
