@@ -230,12 +230,20 @@
 
     {
       "name": "Api Rick and Morty",
-      "isActive": false,
+      "isActive": true,
       "description": "Detalles de los capitulos a través de una peticion a la API",
       "highlights": [],
       "url": "https://alanz3ky.github.io/API-Capitulos/",
       "github": "https://github.com/alanz3ky/API-Capitulos"
     },
+
+    { "name": "Pokedex 1ªGen",
+      "isActive": true,
+      "description": "Peticiónn a API con JS para mostar la pokedex",
+      "highlights": [],
+      "url": "https://alanz3ky.github.io/pokedex-main/",
+      "github": "https://github.com/alanz3ky/pokedex-main"
+    }
 
     {
       "name": "RetroRocketVintage",
