@@ -234,12 +234,20 @@
       "description": "Detalles de los capitulos a través de una peticion a la API",
       "highlights": [],
       "url": "https://alanz3ky.github.io/API-Capitulos/",
-      "github": "https://github.com/alanz3ky/API-Capitulos"
+      "github": "https://github.com/alanz3ky/Lista-pendientes-React"
     },
 
     { "name": "Pokedex 1ªGen",
       "isActive": true,
       "description": "Peticiónn a API con JS para mostar la pokedex",
+      "highlights": [],
+      "url": "https://lista-tareas-typescript-react.netlify.app/",
+      "github": "https://github.com/alanz3ky/pokedex-main"
+    },
+
+      { "name": "Lista Tareas Pendiente React y TypeScript",
+      "isActive": true,
+      "description": "To-Do con TypeScript y React",
       "highlights": [],
       "url": "https://alanz3ky.github.io/pokedex-main/",
       "github": "https://github.com/alanz3ky/pokedex-main"
